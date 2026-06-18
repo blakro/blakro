@@ -15,6 +15,11 @@ I'm currently **open to new opportunities**, so feel free to reach out. 🙌
 - 🪑 **[Market Scanner Niger](https://github.com/blakro/market-scanner-niger)** —
   *Gaskiyar Kaya* 🇳🇪: an AI-powered furniture-quality expert for Niger.
   It analyzes product quality and helps buyers make smarter, more informed decisions.
+- 🛒 **[Customer Behavior Analysis](https://github.com/blakro/Customer_Behavior_Analysis)** —
+  A comprehensive analysis of customer shopping behavior (3,900 records) covering
+  the full data lifecycle: Python EDA, SQL querying (PostgreSQL), Power BI dashboarding,
+  and executive reporting. Delivers insights on customer segmentation, revenue drivers,
+  discount impact, and loyalty programs.
 - 🌱 More projects coming soon — stay tuned!
 
 ---
@@ -27,6 +32,7 @@ I'm currently **open to new opportunities**, so feel free to reach out. 🙌
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Focus areas:** Data Analysis · Data Visualization · SQL & NoSQL Databases · Data Wrangling · Web Scraping
 
