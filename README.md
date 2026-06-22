@@ -20,6 +20,10 @@ I'm currently **open to new opportunities**, so feel free to reach out. 🙌
   the full data lifecycle: Python EDA, SQL querying (PostgreSQL), Power BI dashboarding,
   and executive reporting. Delivers insights on customer segmentation, revenue drivers,
   discount impact, and loyalty programs.
+- 📡 **[MTN Churn Analysis](https://github.com/blakro/mtn_churn_analysis)** —
+  End-to-end churn analysis on MTN Nigeria customer data (974 records, 496 unique customers).
+  Covers Python EDA, PostgreSQL queries, Tableau dashboard, and executive reporting.
+  Key finding: 29.2% global churn rate with actionable retention insights.
 - 🌱 More projects coming soon — stay tuned!
 
 ---
@@ -33,6 +37,7 @@ I'm currently **open to new opportunities**, so feel free to reach out. 🙌
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Focus areas:** Data Analysis · Data Visualization · SQL & NoSQL Databases · Data Wrangling · Web Scraping
 
