@@ -2,11 +2,11 @@
 
 ### Data Analyst 🇳🇪
 
-Welcome to my corner of GitHub! I'm a data-driven problem solver who turns raw data
-into clear, actionable insights. I also enjoy building AI-powered tools that make a
-real difference — especially for my home country, Niger.
+I'm a data analyst from Niger. I like digging into messy datasets to understand
+what's actually going on, and building small tools — some of them AI-based —
+around problems I see at home.
 
-I'm currently **open to new opportunities**, so feel free to reach out. 🙌
+I'm currently **open to new opportunities** — feel free to reach out.
 
 ---
 
@@ -62,4 +62,4 @@ I'm currently **open to new opportunities**, so feel free to reach out. 🙌
 
 ---
 
-<sub>💬 Open to opportunities in data analysis — let's build something meaningful together!</sub>
+<sub>💬 Open to opportunities in data analysis.</sub>
