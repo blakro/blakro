@@ -17,6 +17,17 @@ I'm currently **open to new opportunities** — feel free to reach out.
   266 communes: a reproducible Python pipeline (raw CENI data → cleaned datasets),
   an EDA notebook, and a self-contained interactive HTML dashboard with a
   choropleth map (winner and turnout), regional filters, and a searchable table.
+- 🌊 **[Niger Flood Early Warning](https://github.com/blakro/Niger-flood-early-warning)** —
+  A flood early-warning system for Niger: department-level risk scoring built
+  from open climate data (rainfall, NDVI) and OCHA flood impact records.
+- 💳 **[Mobile Money Fraud Detection](https://github.com/blakro/mobile-transactions-fraud-detection)** —
+  End-to-end fraud detection pipeline on mobile money transactions (MoMTSim
+  dataset): data cleaning in Python, SQL queries, and a Tableau/Chart.js
+  dashboard.
+- 📄 **[ATS — AI Resume Screener](https://github.com/blakro/ATS)** —
+  An AI assistant for CV screening: upload a job description, the app reads
+  your Google Drive folder and ranks candidates by relevance using Gemini.
+  Stateless, no database, built with TypeScript.
 - 🍽️ **[Niamey Restaurants Analysis](https://github.com/blakro/Niamey_restaurants_analysis)** —
   A market study on where to open a restaurant in Niamey, and what kind.
   Based on ~490 establishments scraped from Google Maps: data cleaning with
