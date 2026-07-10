@@ -12,6 +12,11 @@ I'm currently **open to new opportunities** — feel free to reach out.
 
 ### 🚀 What I'm working on
 
+- 🗳️ **[Niger 2020 Election Analysis](https://github.com/blakro/niger-2020-election-analysis)** —
+  Deeper analysis of Niger's December 2020 presidential first round across all
+  266 communes: a reproducible Python pipeline (raw CENI data → cleaned datasets),
+  an EDA notebook, and a self-contained interactive HTML dashboard with a
+  choropleth map (winner and turnout), regional filters, and a searchable table.
 - 🍽️ **[Niamey Restaurants Analysis](https://github.com/blakro/Niamey_restaurants_analysis)** —
   A market study on where to open a restaurant in Niamey, and what kind.
   Based on ~490 establishments scraped from Google Maps: data cleaning with
