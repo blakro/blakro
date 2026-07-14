@@ -12,6 +12,10 @@ I'm currently **open to new opportunities** — feel free to reach out.
 
 ### 🚀 What I'm working on
 
+- 💬 **[Niger Fintech Reviews](https://github.com/blakro/niger-fintech-reviews)** —
+  Analysis of Google Play reviews for Niger's mobile money and banking apps:
+  a scraping pipeline, a cleaned dataset, thematic and sentiment analysis,
+  a business report, and an interactive dashboard.
 - 🗳️ **[Niger 2020 Election Analysis](https://github.com/blakro/niger-2020-election-analysis)** —
   Deeper analysis of Niger's December 2020 presidential first round across all
   266 communes: a reproducible Python pipeline (raw CENI data → cleaned datasets),
