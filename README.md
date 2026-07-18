@@ -13,41 +13,45 @@ I'm currently **open to new opportunities** — feel free to reach out.
 ### 🚀 What I'm working on
 
 - 💬 **[Niger Fintech Reviews](https://github.com/blakro/niger-fintech-reviews)** —
-  Analysis of Google Play reviews for Niger's mobile money and banking apps:
-  a scraping pipeline, a cleaned dataset, thematic and sentiment analysis,
-  a business report, and an interactive dashboard.
+  I scraped the Google Play reviews of Niger's mobile money and banking apps
+  to see what people actually complain about. After cleaning them up, I tagged
+  the recurring themes, ran sentiment on them, and put it all in a dashboard
+  with a short write-up of what it means for the apps.
 - 🗳️ **[Niger 2020 Election Analysis](https://github.com/blakro/niger-2020-election-analysis)** —
-  Deeper analysis of Niger's December 2020 presidential first round across all
-  266 communes: a reproducible Python pipeline (raw CENI data → cleaned datasets),
-  an EDA notebook, and a self-contained interactive HTML dashboard with a
-  choropleth map (winner and turnout), regional filters, and a searchable table.
+  A close look at the first round of Niger's December 2020 presidential
+  election, commune by commune — all 266 of them. I turned the raw CENI
+  results into clean datasets, explored them in a notebook, and built a
+  single-file HTML dashboard where you can read the winner and turnout off
+  a map, filter by region, and search the table.
 - 🌊 **[Niger Flood Early Warning](https://github.com/blakro/Niger-flood-early-warning)** —
-  A flood early-warning system for Niger: department-level risk scoring built
-  from open climate data (rainfall, NDVI) and OCHA flood impact records.
+  A small early-warning system for floods in Niger. It scores each department's
+  risk from open climate data (rainfall, vegetation via NDVI) and the flood
+  impacts OCHA has recorded over the years.
 - 💳 **[Mobile Money Fraud Detection](https://github.com/blakro/mobile-transactions-fraud-detection)** —
-  End-to-end fraud detection pipeline on mobile money transactions (MoMTSim
-  dataset): data cleaning in Python, SQL queries, and a Tableau/Chart.js
-  dashboard.
+  Catching fraudulent mobile money transactions in the MoMTSim dataset,
+  from cleaning the data in Python through the SQL queries to a dashboard
+  built with Tableau and Chart.js.
 - 📄 **[ATS — AI Resume Screener](https://github.com/blakro/ATS)** —
-  An AI assistant for CV screening: upload a job description, the app reads
-  your Google Drive folder and ranks candidates by relevance using Gemini.
-  Stateless, no database, built with TypeScript.
+  CV screening without the tedious part: you paste a job description, the app
+  reads a Google Drive folder of resumes and ranks candidates by how well they
+  fit, using Gemini. No database, nothing stored — just TypeScript.
 - 🍽️ **[Niamey Restaurants Analysis](https://github.com/blakro/Niamey_restaurants_analysis)** —
-  A market study on where to open a restaurant in Niamey, and what kind.
-  Based on ~490 establishments scraped from Google Maps: data cleaning with
-  Python and DuckDB, statistical tests, geospatial clustering with maps,
-  and a scoring model to compare neighborhoods.
+  If you wanted to open a restaurant in Niamey, where would you put it, and
+  what kind? I scraped ~490 places off Google Maps and dug in: cleaning with
+  Python and DuckDB, a few statistical tests, geospatial clustering on maps,
+  and a scoring model to rank neighborhoods against each other.
 - 🪑 **[Market Scanner Niger](https://github.com/blakro/market-scanner-niger)** —
-  *Gaskiyar Kaya* 🇳🇪: a tool that uses AI to assess furniture quality,
-  built to help buyers in Niger make better purchase decisions.
+  *Gaskiyar Kaya* 🇳🇪 — a little AI tool that judges the quality of second-hand
+  furniture from a photo, so buyers in Niger have a better idea of what they're
+  paying for.
 - 🛒 **[Customer Behavior Analysis](https://github.com/blakro/Customer_Behavior_Analysis)** —
-  Analysis of 3,900 shopping records, from exploration in Python and SQL
-  (PostgreSQL) to a Power BI dashboard and a written report. Looks at
-  customer segments, revenue drivers, discounts, and loyalty programs.
+  Digging through 3,900 shopping records to understand what drives customer
+  behaviour, from exploring the data in Python and PostgreSQL to a Power BI
+  dashboard and a written report on segments, revenue, discounts, and loyalty.
 - 📡 **[MTN Churn Analysis](https://github.com/blakro/mtn_churn_analysis)** —
-  Churn study on MTN Nigeria customer data (974 records, 496 customers)
-  using Python, PostgreSQL, and Tableau. The overall churn rate comes out
-  at 29.2%, with recommendations on which segments to focus retention on.
+  Why do MTN Nigeria customers leave? I looked at 974 records (496 customers)
+  with Python, PostgreSQL, and Tableau. Churn lands at 29.2%, and the report
+  points to the segments worth focusing retention on.
 - 🌱 More projects on the way.
 
 ---
