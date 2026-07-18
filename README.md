@@ -12,6 +12,12 @@ I'm currently **open to new opportunities** — feel free to reach out.
 
 ### 🚀 What I'm working on
 
+- 📈 **[Statys](https://github.com/blakro/statys)** —
+  A multi-tenant platform that lets an analyst explore a dataset without writing
+  any code. You drop in a CSV or Excel file, and it walks through each variable —
+  univariate and bivariate analyses, with the right statistical test picked for
+  you — then exports the whole thing as a PDF report. Node.js on the front,
+  FastAPI on the back.
 - 💬 **[Niger Fintech Reviews](https://github.com/blakro/niger-fintech-reviews)** —
   I scraped the Google Play reviews of Niger's mobile money and banking apps
   to see what people actually complain about. After cleaning them up, I tagged
