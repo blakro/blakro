@@ -18,6 +18,12 @@ I'm currently **open to new opportunities** — feel free to reach out.
   univariate and bivariate analyses, with the right statistical test picked for
   you — then exports the whole thing as a PDF report. Node.js on the front,
   FastAPI on the back.
+- 🏘️ **[Kobo RSU Niger](https://github.com/blakro/kobo-rsu-niger)** —
+  A full household data-collection pipeline for a Unified Social Registry in
+  Niger, built on KoBoToolbox: an XLSForm covering 124 questions across 8
+  sections, API v2 extraction with daily quality checks, and identity
+  deduplication tuned for Sahelian name variants. Ships with a built-in demo
+  dataset, so the dedup logic runs end-to-end with no KoBo account needed.
 - 💬 **[Niger Fintech Reviews](https://github.com/blakro/niger-fintech-reviews)** —
   I scraped the Google Play reviews of Niger's mobile money and banking apps
   to see what people actually complain about. After cleaning them up, I tagged
