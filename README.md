@@ -17,6 +17,19 @@ the month I started it — so you can see how my work has evolved over time.
 🔒 marks a private repository (the link won't open for other visitors, but I'm
 happy to walk you through it).
 
+### 🗓️ September 2026
+
+- ✈️ **[Plane Crash Survival Analysis](https://github.com/blakro/planes_crashes)** —
+  A deep dive into real records of 5,244 plane crashes going back to 1908: not
+  just building a model, but stress-testing it. Given that a crash already
+  happened, can you predict beforehand whether anyone survives? I built in
+  checks to stop the model from "cheating" (accidentally seeing information
+  that's only known after the fact), then reported the honest results even
+  where they're humbling — the simple model beats the fancy one, and neither
+  one understands the deadliest crashes at all. Comes with two write-ups: one
+  in plain language, one for anyone who wants to audit the method line by
+  line.
+
 ### 🗓️ August 2026
 
 - 🏦 **[UEMOA Credit Bureau Simulation](https://github.com/blakro/uemoa-credit-bureau-pipeline)** —
@@ -126,6 +139,7 @@ happy to walk you through it).
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
