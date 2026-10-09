@@ -19,6 +19,14 @@ happy to walk you through it).
 
 ### 🗓️ September 2026
 
+- 🧹 **[Housekeeper Interview Helper](https://github.com/blakro/recrutement-aide-menagere)** —
+  A phone app that helps families in Niamey interview a housekeeper or kitchen
+  helper. Every candidate gets the same five questions, plus real-life
+  situations drawn at random (oil catching fire, a banknote found under the
+  bed…), and at the end you get a score and a list of what still needs
+  checking before hiring. It's a decision aid, not a lie detector: the score
+  never looks at nationality, religion or family situation, and nothing
+  leaves the phone.
 - ✈️ **[Plane Crash Survival Analysis](https://github.com/blakro/planes_crashes)** —
   A deep dive into real records of 5,244 plane crashes going back to 1908: not
   just building a model, but stress-testing it. Given that a crash already
