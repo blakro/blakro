@@ -17,6 +17,17 @@ the month I started it — so you can see how my work has evolved over time.
 🔒 marks a private repository (the link won't open for other visitors, but I'm
 happy to walk you through it).
 
+### 🗓️ October 2026
+
+- 🚨 **[Vigie — Mobile Money Fraud Watch](https://github.com/blakro/vigie-fraude-mobile-money)** —
+  A fraud-detection engine for a mobile money wallet in Senegal. Before each
+  payment goes through, it checks 17 simple rules and a machine-learning model,
+  then decides: accept, send for review, or block — always with reasons a
+  person can read ("new phone on this account, PIN reset 6 minutes ago, empties
+  99% of the balance"). In testing, all 28 fraud cases set off at least one
+  alert. Comes with a dashboard and an API. The operator, *Doxal Money*, and
+  all its data are made up.
+
 ### 🗓️ September 2026
 
 - 🧹 **[Housekeeper Interview Helper](https://github.com/blakro/recrutement-aide-menagere)** —
@@ -133,9 +144,12 @@ happy to walk you through it).
 ### 🗓️ November 2025
 
 - 🪑 **[Market Scanner Niger](https://github.com/blakro/market-scanner-niger)** —
-  *Gaskiyar Kaya* 🇳🇪 — a little AI tool that judges the quality of second-hand
-  furniture from a photo, so buyers in Niger have a better idea of what they're
-  paying for.
+  *Gaskiyar Kaya* 🇳🇪 ("the truth about the goods" in Hausa) — your pocket
+  carpenter for second-hand furniture in Niamey. Snap up to 5 photos of a sofa
+  or wardrobe at the market or on Facebook, type the seller's price, and the AI
+  tells you what it's really made of, what it's worth in FCFA, whether it's a
+  good deal, and how far to haggle. You can send the summary to a friend on
+  WhatsApp. [Try the app](https://market-scanner-niger.streamlit.app).
 
 🌱 More projects on the way.
 
